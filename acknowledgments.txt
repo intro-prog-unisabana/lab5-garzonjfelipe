@@ -3,14 +3,14 @@ Lab 5
 /******************************************************************************
 * Número aproximado de horas para completar esta tarea
 ******************************************************************************/
-Número de horas:
+Número de horas:10
 
 
 /******************************************************************************
 * ¿Encontraste algún problema serio? Si es así, por favor descríbelo.
 ******************************************************************************/
 
-¿Sí o no?
+¿Sí o no?no
 
 
 /******************************************************************************
@@ -24,7 +24,7 @@ Número de horas:
  ******************************************************************************/
 
 [escribe el enlace aquí]
-
+https://github.com/garzonjfelipe?tab=repositories
 /******************************************************************************
  *  Escribe y firma el siguiente reconocimiento estudiantil de trabajo original.
  *  Para tu firma, escribe /s/, seguido de tu nombre.
@@ -35,4 +35,4 @@ Número de horas:
  ******************************************************************************/
 
 [escribe y firma la declaración aquí]
-
+si Juan Felipe Garzon Baron
