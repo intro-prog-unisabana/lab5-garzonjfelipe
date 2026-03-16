@@ -1,8 +1,11 @@
 from utils import *
 
-mensaje = input("Please type your message\n")
+message = input("Please type your message\n")
 
-invertido = flip(mensaje)
-cantidad_a = count_letters(invertido, 'a')
+flipped = flip(message)
 
-print("Your encoded message is:", invertido + str(cantidad_a))
+count = count_letters(message)
+
+encoded = flipped + str(count)
+
+print("Your encoded message is:", encoded)
